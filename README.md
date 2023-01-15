@@ -1,4 +1,4 @@
-# Lógica de Programacao
+# Lógica de Programação
  Seleção de exercícios sugeridos duranto **Curso de Algoritmos** com o _**@gustavoguanabara.**_
  
  Ferramenta utilizada: _Visualg versão 3.0_
