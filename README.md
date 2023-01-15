@@ -1,5 +1,5 @@
 # Lógica de Programação
- Seleção de exercícios sugeridos durante **Curso de Algoritmos** com o _**@gustavoguanabara.**_
+ Seleção de exercícios sugeridos durante o **Curso de Algoritmos** com o _**@gustavoguanabara.**_
  
  Ferramenta utilizada: _Visualg versão 3.0_
  Pseudo linguagem: _Portugol_
